@@ -1,3 +1,4 @@
+#Creating a new branch is quick.
 git init
 git add README.md
 git commit -m "first commit"
