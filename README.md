@@ -1,4 +1,4 @@
-#Creating a new branch is quick.
+#Creating a new branch is quick & simple.
 git init
 git add README.md
 git commit -m "first commit"
